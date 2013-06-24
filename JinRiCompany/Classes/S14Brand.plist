@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>position</key>
+	<dict>
+		<key>S14Brand</key>
+		<dict>
+			<key>x</key>
+			<string>230</string>
+			<key>y</key>
+			<string>368</string>
+		</dict>
+		<key>rightTitle</key>
+		<dict>
+			<key>x</key>
+			<string>440</string>
+			<key>y</key>
+			<string>468</string>
+		</dict>
+	</dict>
+	<key>fontSize</key>
+	<dict>
+		<key>rightTitle</key>
+		<string>30</string>
+		<key>rightTitleDetail</key>
+		<string>28</string>
+	</dict>
+	<key>size</key>
+	<dict>
+		<key>rightTitle</key>
+		<dict>
+			<key>width</key>
+			<string>450</string>
+			<key>height</key>
+			<string>0</string>
+		</dict>
+	</dict>
+	<key>string</key>
+	<dict>
+		<key>rightTitle</key>
+		<string>源于传统超越传统/n将中国最好的带给世界，将世界最好</string>
+		<key>rightTitleDetail</key>
+		<string>“我们不卖药\源于传统超越传统源于传统超越传统\n”</string>
+	</dict>
+</dict>
+</plist>

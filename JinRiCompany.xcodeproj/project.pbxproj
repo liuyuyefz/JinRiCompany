@@ -218,8 +218,23 @@
 		68F8D3131777DB59008886AA /* CCPhysicsSprite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3121777DB59008886AA /* CCPhysicsSprite.cpp */; };
 		68F8D3171777DB59008886AA /* cocos2dx-ext.mkf in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3161777DB59008886AA /* cocos2dx-ext.mkf */; };
 		68F8D3191777DB59008886AA /* cocos2dx-ext_public.defines.txt in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3181777DB59008886AA /* cocos2dx-ext_public.defines.txt */; };
-		68F8D31F1777DB59008886AA /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D31E1777DB59008886AA /* AppDelegate.cpp */; };
-		68F8D3221777DB59008886AA /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3211777DB59008886AA /* HelloWorldScene.cpp */; };
+		68F8D3431777DBF2008886AA /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3291777DBF2008886AA /* AppDelegate.cpp */; };
+		68F8D3441777DBF2008886AA /* S13More.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D32A1777DBF2008886AA /* S13More.plist */; };
+		68F8D3451777DBF2008886AA /* S13More.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D32B1777DBF2008886AA /* S13More.cpp */; };
+		68F8D3461777DBF2008886AA /* S13News.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D32C1777DBF2008886AA /* S13News.cpp */; };
+		68F8D3471777DBF2008886AA /* S13News.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D32D1777DBF2008886AA /* S13News.plist */; };
+		68F8D3481777DBF2008886AA /* S14Brand.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D32F1777DBF2008886AA /* S14Brand.cpp */; };
+		68F8D3491777DBF2008886AA /* S14Brand.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3301777DBF2008886AA /* S14Brand.plist */; };
+		68F8D34A1777DBF2008886AA /* JinRiShangPinScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3311777DBF2008886AA /* JinRiShangPinScene.cpp */; };
+		68F8D34B1777DBF2008886AA /* CompanyInfo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3331777DBF2008886AA /* CompanyInfo.cpp */; };
+		68F8D34C1777DBF2008886AA /* CompanyInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3361777DBF2008886AA /* CompanyInfo.plist */; };
+		68F8D34D1777DBF2008886AA /* S1MainScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3371777DBF2008886AA /* S1MainScene.cpp */; };
+		68F8D34E1777DBF2008886AA /* S1Main.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3381777DBF2008886AA /* S1Main.plist */; };
+		68F8D34F1777DBF2008886AA /* JinRiShangPin.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3391777DBF2008886AA /* JinRiShangPin.plist */; };
+		68F8D3501777DBF2008886AA /* ScriptParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D33B1777DBF2008886AA /* ScriptParser.cpp */; };
+		68F8D3511777DBF2008886AA /* PersonalApi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D33F1777DBF2008886AA /* PersonalApi.cpp */; };
+		68F8D3521777DBF2008886AA /* CustomTableViewCell.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3411777DBF2008886AA /* CustomTableViewCell.cpp */; };
+		68F8D3541777DBFF008886AA /* ipad in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3531777DBFF008886AA /* ipad */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -686,10 +701,34 @@
 		68F8D3161777DB59008886AA /* cocos2dx-ext.mkf */ = {isa = PBXFileReference; lastKnownFileType = text; name = "cocos2dx-ext.mkf"; path = "libs/extensions/proj.marmalade/cocos2dx-ext.mkf"; sourceTree = "<group>"; };
 		68F8D3181777DB59008886AA /* cocos2dx-ext_public.defines.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "cocos2dx-ext_public.defines.txt"; path = "libs/extensions/proj.marmalade/cocos2dx-ext_public.defines.txt"; sourceTree = "<group>"; };
 		68F8D31B1777DB59008886AA /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
-		68F8D31D1777DB59008886AA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
-		68F8D31E1777DB59008886AA /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
-		68F8D3201777DB59008886AA /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
-		68F8D3211777DB59008886AA /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		68F8D3281777DBF2008886AA /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
+		68F8D3291777DBF2008886AA /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
+		68F8D32A1777DBF2008886AA /* S13More.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = S13More.plist; path = Classes/S13More.plist; sourceTree = "<group>"; };
+		68F8D32B1777DBF2008886AA /* S13More.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = S13More.cpp; path = Classes/S13More.cpp; sourceTree = "<group>"; };
+		68F8D32C1777DBF2008886AA /* S13News.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = S13News.cpp; path = Classes/S13News.cpp; sourceTree = "<group>"; };
+		68F8D32D1777DBF2008886AA /* S13News.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = S13News.plist; path = Classes/S13News.plist; sourceTree = "<group>"; };
+		68F8D32E1777DBF2008886AA /* S13More.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = S13More.h; path = Classes/S13More.h; sourceTree = "<group>"; };
+		68F8D32F1777DBF2008886AA /* S14Brand.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = S14Brand.cpp; path = Classes/S14Brand.cpp; sourceTree = "<group>"; };
+		68F8D3301777DBF2008886AA /* S14Brand.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = S14Brand.plist; path = Classes/S14Brand.plist; sourceTree = "<group>"; };
+		68F8D3311777DBF2008886AA /* JinRiShangPinScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JinRiShangPinScene.cpp; path = Classes/JinRiShangPinScene.cpp; sourceTree = "<group>"; };
+		68F8D3321777DBF2008886AA /* S14Brand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = S14Brand.h; path = Classes/S14Brand.h; sourceTree = "<group>"; };
+		68F8D3331777DBF2008886AA /* CompanyInfo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CompanyInfo.cpp; path = Classes/CompanyInfo.cpp; sourceTree = "<group>"; };
+		68F8D3341777DBF2008886AA /* CompanyInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CompanyInfo.h; path = Classes/CompanyInfo.h; sourceTree = "<group>"; };
+		68F8D3351777DBF2008886AA /* S13News.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = S13News.h; path = Classes/S13News.h; sourceTree = "<group>"; };
+		68F8D3361777DBF2008886AA /* CompanyInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CompanyInfo.plist; path = Classes/CompanyInfo.plist; sourceTree = "<group>"; };
+		68F8D3371777DBF2008886AA /* S1MainScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = S1MainScene.cpp; path = Classes/S1MainScene.cpp; sourceTree = "<group>"; };
+		68F8D3381777DBF2008886AA /* S1Main.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = S1Main.plist; path = Classes/S1Main.plist; sourceTree = "<group>"; };
+		68F8D3391777DBF2008886AA /* JinRiShangPin.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = JinRiShangPin.plist; path = Classes/JinRiShangPin.plist; sourceTree = "<group>"; };
+		68F8D33A1777DBF2008886AA /* JinRiShangPinScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JinRiShangPinScene.h; path = Classes/JinRiShangPinScene.h; sourceTree = "<group>"; };
+		68F8D33B1777DBF2008886AA /* ScriptParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ScriptParser.cpp; path = Classes/ScriptParser.cpp; sourceTree = "<group>"; };
+		68F8D33C1777DBF2008886AA /* S1MainScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = S1MainScene.h; path = Classes/S1MainScene.h; sourceTree = "<group>"; };
+		68F8D33D1777DBF2008886AA /* ScriptParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScriptParser.h; path = Classes/ScriptParser.h; sourceTree = "<group>"; };
+		68F8D33E1777DBF2008886AA /* PersonalApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PersonalApi.h; path = Classes/PersonalApi.h; sourceTree = "<group>"; };
+		68F8D33F1777DBF2008886AA /* PersonalApi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = PersonalApi.cpp; path = Classes/PersonalApi.cpp; sourceTree = "<group>"; };
+		68F8D3401777DBF2008886AA /* AppMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppMacros.h; path = Classes/AppMacros.h; sourceTree = "<group>"; };
+		68F8D3411777DBF2008886AA /* CustomTableViewCell.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CustomTableViewCell.cpp; path = Classes/CustomTableViewCell.cpp; sourceTree = "<group>"; };
+		68F8D3421777DBF2008886AA /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomTableViewCell.h; path = Classes/CustomTableViewCell.h; sourceTree = "<group>"; };
+		68F8D3531777DBFF008886AA /* ipad */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ipad; path = Resources/ipad; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -760,6 +799,7 @@
 		68F8D04F1777DB52008886AA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				68F8D3531777DBFF008886AA /* ipad */,
 				68F8D0501777DB52008886AA /* CloseNormal.png */,
 				68F8D0521777DB52008886AA /* CloseSelected.png */,
 				68F8D0541777DB52008886AA /* Default.png */,
@@ -1690,10 +1730,33 @@
 		68F8D31C1777DB59008886AA /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				68F8D31D1777DB59008886AA /* AppDelegate.h */,
-				68F8D31E1777DB59008886AA /* AppDelegate.cpp */,
-				68F8D3201777DB59008886AA /* HelloWorldScene.h */,
-				68F8D3211777DB59008886AA /* HelloWorldScene.cpp */,
+				68F8D3281777DBF2008886AA /* AppDelegate.h */,
+				68F8D3291777DBF2008886AA /* AppDelegate.cpp */,
+				68F8D32A1777DBF2008886AA /* S13More.plist */,
+				68F8D32B1777DBF2008886AA /* S13More.cpp */,
+				68F8D32C1777DBF2008886AA /* S13News.cpp */,
+				68F8D32D1777DBF2008886AA /* S13News.plist */,
+				68F8D32E1777DBF2008886AA /* S13More.h */,
+				68F8D32F1777DBF2008886AA /* S14Brand.cpp */,
+				68F8D3301777DBF2008886AA /* S14Brand.plist */,
+				68F8D3311777DBF2008886AA /* JinRiShangPinScene.cpp */,
+				68F8D3321777DBF2008886AA /* S14Brand.h */,
+				68F8D3331777DBF2008886AA /* CompanyInfo.cpp */,
+				68F8D3341777DBF2008886AA /* CompanyInfo.h */,
+				68F8D3351777DBF2008886AA /* S13News.h */,
+				68F8D3361777DBF2008886AA /* CompanyInfo.plist */,
+				68F8D3371777DBF2008886AA /* S1MainScene.cpp */,
+				68F8D3381777DBF2008886AA /* S1Main.plist */,
+				68F8D3391777DBF2008886AA /* JinRiShangPin.plist */,
+				68F8D33A1777DBF2008886AA /* JinRiShangPinScene.h */,
+				68F8D33B1777DBF2008886AA /* ScriptParser.cpp */,
+				68F8D33C1777DBF2008886AA /* S1MainScene.h */,
+				68F8D33D1777DBF2008886AA /* ScriptParser.h */,
+				68F8D33E1777DBF2008886AA /* PersonalApi.h */,
+				68F8D33F1777DBF2008886AA /* PersonalApi.cpp */,
+				68F8D3401777DBF2008886AA /* AppMacros.h */,
+				68F8D3411777DBF2008886AA /* CustomTableViewCell.cpp */,
+				68F8D3421777DBF2008886AA /* CustomTableViewCell.h */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -1763,6 +1826,13 @@
 				68F8D26B1777DB58008886AA /* project.pbxproj in Resources */,
 				68F8D3171777DB59008886AA /* cocos2dx-ext.mkf in Resources */,
 				68F8D3191777DB59008886AA /* cocos2dx-ext_public.defines.txt in Resources */,
+				68F8D3441777DBF2008886AA /* S13More.plist in Resources */,
+				68F8D3471777DBF2008886AA /* S13News.plist in Resources */,
+				68F8D3491777DBF2008886AA /* S14Brand.plist in Resources */,
+				68F8D34C1777DBF2008886AA /* CompanyInfo.plist in Resources */,
+				68F8D34E1777DBF2008886AA /* S1Main.plist in Resources */,
+				68F8D34F1777DBF2008886AA /* JinRiShangPin.plist in Resources */,
+				68F8D3541777DBFF008886AA /* ipad in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1959,8 +2029,16 @@
 				68F8D30A1777DB59008886AA /* HttpClient.cpp in Sources */,
 				68F8D3101777DB59008886AA /* CCPhysicsDebugNode.cpp in Sources */,
 				68F8D3131777DB59008886AA /* CCPhysicsSprite.cpp in Sources */,
-				68F8D31F1777DB59008886AA /* AppDelegate.cpp in Sources */,
-				68F8D3221777DB59008886AA /* HelloWorldScene.cpp in Sources */,
+				68F8D3431777DBF2008886AA /* AppDelegate.cpp in Sources */,
+				68F8D3451777DBF2008886AA /* S13More.cpp in Sources */,
+				68F8D3461777DBF2008886AA /* S13News.cpp in Sources */,
+				68F8D3481777DBF2008886AA /* S14Brand.cpp in Sources */,
+				68F8D34A1777DBF2008886AA /* JinRiShangPinScene.cpp in Sources */,
+				68F8D34B1777DBF2008886AA /* CompanyInfo.cpp in Sources */,
+				68F8D34D1777DBF2008886AA /* S1MainScene.cpp in Sources */,
+				68F8D3501777DBF2008886AA /* ScriptParser.cpp in Sources */,
+				68F8D3511777DBF2008886AA /* PersonalApi.cpp in Sources */,
+				68F8D3521777DBF2008886AA /* CustomTableViewCell.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

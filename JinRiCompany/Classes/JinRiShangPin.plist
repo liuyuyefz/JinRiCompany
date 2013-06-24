@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>position</key>
+	<dict>
+		<key>naviTitle</key>
+		<dict>
+			<key>x</key>
+			<string>114</string>
+			<key>y</key>
+			<string>620</string>
+		</dict>
+	</dict>
+	<key>fontSize</key>
+	<dict>
+		<key>firstTitle</key>
+		<string>30</string>
+		<key>naviTitle</key>
+		<string>25</string>
+	</dict>
+	<key>groupString</key>
+	<dict>
+		<key>naviTitle</key>
+		<dict>
+			<key>1</key>
+			<string>金日尚品</string>
+			<key>2</key>
+			<string>企业介绍</string>
+			<key>3</key>
+			<string>领导关怀</string>
+			<key>4</key>
+			<string>新闻动态</string>
+			<key>5</key>
+			<string>品牌理念</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

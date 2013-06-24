@@ -1,8 +1,8 @@
 //
-//  JinRiCompanyAppDelegate.h
-//  JinRiCompany
+//  GRETestAppDelegate.h
+//  GRETest
 //
-//  Created by lyy on 13-6-24.
+//  Created by lyy on 13-3-26.
 //  Copyright __MyCompanyName__ 2013年. All rights reserved.
 //
 

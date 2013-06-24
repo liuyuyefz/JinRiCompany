@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>position</key>
+	<dict>
+		<key>S13PLeftimg</key>
+		<dict>
+			<key>x</key>
+			<string>230</string>
+			<key>y</key>
+			<string>368</string>
+		</dict>
+	</dict>
+	<key>fontSize</key>
+	<dict>
+		<key>firstStr</key>
+		<string>40</string>
+		<key>rightFirstTitle</key>
+		<string>40</string>
+		<key>titleCnFontSize</key>
+		<string>20</string>
+		<key>titleEnFontSize</key>
+		<string>20</string>
+		<key>titleDetailFontSize</key>
+		<string>18</string>
+		<key>moreFontSize</key>
+		<string>15</string>
+	</dict>
+	<key>size</key>
+	<dict>
+		<key>rightTitle</key>
+		<dict>
+			<key>width</key>
+			<string>450</string>
+			<key>height</key>
+			<string>0</string>
+		</dict>
+	</dict>
+	<key>groupString</key>
+	<dict>
+		<key>rightBigTitleCn</key>
+		<dict>
+			<key>1</key>
+			<string>公司动态</string>
+			<key>2</key>
+			<string>行业资讯</string>
+		</dict>
+		<key>rightBigTitleEn</key>
+		<dict>
+			<key>1</key>
+			<string>Company News</string>
+			<key>2</key>
+			<string>Industry News</string>
+		</dict>
+		<key>rightTitleDetail1</key>
+		<dict>
+			<key>1</key>
+			<string>香港金日大厦香港金</string>
+			<key>2</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦1</string>
+			<key>3</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金港金日大厦香港金港金日大厦香港金日大厦香港金日大厦2</string>
+			<key>4</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦3</string>
+		</dict>
+		<key>rightTitleDetail2</key>
+		<dict>
+			<key>1</key>
+			<string>香港金日大厦香港金</string>
+			<key>2</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦1</string>
+			<key>3</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金港金日大厦香港金港金日大厦香港金日大厦香港金日大厦2</string>
+			<key>4</key>
+			<string>香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦香港金日大厦3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
