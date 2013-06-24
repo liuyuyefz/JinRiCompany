@@ -63,12 +63,12 @@ bool S14Brand::setUpSubClass2()
 	{
         
         
-        CCSprite * showbigPicture = CCSprite::create("S14Brand.png");
-        showbigPicture->setPosition( ScriptParser::getPositionFromPlist(plistDic,"S14Brand"));
+        CCSprite * showbigPicture = CCSprite::create("s14tuwen.png");
+        showbigPicture->setPosition( ScriptParser::getPositionFromPlist(plistDic,"s14tuwen.png"));
         this->addChild(showbigPicture,zNum);
 		
         
-
+/*
         float rightTitleFontSize = ScriptParser::getFontSizeFromPlist(plistDic,"rightTitle");
         CCSize dimensionsSize = ScriptParser::getSizeFromPlist(plistDic,"rightTitle");
         const char * rightTitleLabelStr = ScriptParser::getStringFromPlist(plistDic,"rightTitle");
@@ -87,7 +87,7 @@ bool S14Brand::setUpSubClass2()
         rightDetailTitleLabel->setPosition(ccp(rightTitleLabel->getPosition().x,rightTitleLabel->getPosition().y-rightTitleLabel->getContentSize().height/2-60));
         rightDetailTitleLabel->setColor(ccBLACK);
         this->addChild(rightDetailTitleLabel,zNum);
-        
+        */
         
 		bRet = true;
 	} while (0);

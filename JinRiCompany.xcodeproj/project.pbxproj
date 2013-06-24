@@ -234,7 +234,7 @@
 		68F8D3501777DBF2008886AA /* ScriptParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D33B1777DBF2008886AA /* ScriptParser.cpp */; };
 		68F8D3511777DBF2008886AA /* PersonalApi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D33F1777DBF2008886AA /* PersonalApi.cpp */; };
 		68F8D3521777DBF2008886AA /* CustomTableViewCell.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68F8D3411777DBF2008886AA /* CustomTableViewCell.cpp */; };
-		68F8D3541777DBFF008886AA /* ipad in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D3531777DBFF008886AA /* ipad */; };
+		68F8D35A17783658008886AA /* ipad in Resources */ = {isa = PBXBuildFile; fileRef = 68F8D35917783658008886AA /* ipad */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -728,7 +728,7 @@
 		68F8D3401777DBF2008886AA /* AppMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppMacros.h; path = Classes/AppMacros.h; sourceTree = "<group>"; };
 		68F8D3411777DBF2008886AA /* CustomTableViewCell.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CustomTableViewCell.cpp; path = Classes/CustomTableViewCell.cpp; sourceTree = "<group>"; };
 		68F8D3421777DBF2008886AA /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomTableViewCell.h; path = Classes/CustomTableViewCell.h; sourceTree = "<group>"; };
-		68F8D3531777DBFF008886AA /* ipad */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ipad; path = Resources/ipad; sourceTree = "<group>"; };
+		68F8D35917783658008886AA /* ipad */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ipad; path = Resources/ipad; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -799,7 +799,7 @@
 		68F8D04F1777DB52008886AA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				68F8D3531777DBFF008886AA /* ipad */,
+				68F8D35917783658008886AA /* ipad */,
 				68F8D0501777DB52008886AA /* CloseNormal.png */,
 				68F8D0521777DB52008886AA /* CloseSelected.png */,
 				68F8D0541777DB52008886AA /* Default.png */,
@@ -1832,7 +1832,7 @@
 				68F8D34C1777DBF2008886AA /* CompanyInfo.plist in Resources */,
 				68F8D34E1777DBF2008886AA /* S1Main.plist in Resources */,
 				68F8D34F1777DBF2008886AA /* JinRiShangPin.plist in Resources */,
-				68F8D3541777DBFF008886AA /* ipad in Resources */,
+				68F8D35A17783658008886AA /* ipad in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2172,6 +2172,7 @@
 				68F8D3271777DB5A008886AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
